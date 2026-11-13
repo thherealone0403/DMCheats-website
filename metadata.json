@@ -1,0 +1,6 @@
+{
+  "name": "DMCheats",
+  "description": "DMCheats digital storefront, license key redemption portal, and admin product management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
